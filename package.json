@@ -1,18 +1,18 @@
 {
-  "name": "copy-vishivanke",
+  "name": "vishivanka",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/copy-vishivanke/",
+    "build": "vite build --base=/vishivanka/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^4.0.5",
     "glob": "^8.1.0"
   },
-  "author": "Anya Kobtsev <anya.kobtseva@gmail.com>",
+  "author": "Anya Kobtseva <anya.kobtseva@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
